@@ -35,8 +35,8 @@ The app is designed with a simple and clean user interface and uses basic Androi
     - If the guess is correct, the player wins and will be taken to the `ResultActivity` with a "Victory!" message.
     - If the player runs out of attempts, they will lose the game, and the `ResultActivity` will show a "Game Over!" message.
 5. Press **"Retry"** to start a new game.
-
----
+## ScreenShots
+(1.png) (2.png) (3.png) (4.png)
 
 ## 📥 Installation
 To install and run the app locally on your machine:
